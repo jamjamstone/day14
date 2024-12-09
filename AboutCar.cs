@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace day14
 {
-    internal class AboutCar// 이게 있으면 별도 과정을 거처야 하는듯?
-    {
+    
         ///d
         ///
        public class Car
@@ -95,5 +94,5 @@ namespace day14
         }
 
 
-    }
+    
 }
